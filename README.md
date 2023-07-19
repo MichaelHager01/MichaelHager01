@@ -2,7 +2,7 @@
 - 👀 I’m interested in pursuing a career in Software Engineering after I graduate from college.
 - 🌱 I’m currently advancing my knowledge in Python and C++.
 - 💞️ I’m looking to collaborate on a project. If anyone is interested please email me.
-- 📫 Email: mbh190002@tamu.edu
+- 📫 Email: hagermikepr2@gmail.com
 
 <!---
 MichaelHager01/MichaelHager01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
