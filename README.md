@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MichaelHager01
 - 👀 I’m interested in pursuing a career in Software Engineering after I graduate from college.
-- 🌱 I’m currently advancing my knowledge in Python and Web Development.
+- 🌱 I’m currently advancing my knowledge in Python and C++.
 - 💞️ I’m looking to collaborate on a project. If anyone is interested please email me.
 - 📫 Email: mbh190002@tamu.edu
 
